@@ -220,11 +220,10 @@ LogCommander.exe analyze "C:\Path\Game.log" --output report.html --format simple
 
 ## Créditos / Credits
 
-- Inspirado en **StarLogs**, de [Ozy311](https://github.com/Ozy311/StarLogs). / Inspired by **StarLogs** by [Ozy311](https://github.com/Ozy311/StarLogs).
+- Inspirado en **StarLogs**. / Inspired by **StarLogs**.
 - Datos de componentes y contratos derivados del paquete de idioma de la comunidad [ExoAE/ScCompLangPack](https://github.com/ExoAE/ScCompLangPack). Textos del juego © Cloud Imperium Games. / Component and contract data derived from the community language pack [ExoAE/ScCompLangPack](https://github.com/ExoAE/ScCompLangPack). Game text © Cloud Imperium Games.
 - Proyecto de fans, no afiliado a Cloud Imperium Games ni respaldado por ellos. / A fan project, not affiliated with or endorsed by Cloud Imperium Games.
 - Desarrollado por **Kosak0**. / Developed by **Kosak0**.
-- Avisos de licencia de terceros en [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md). / Third-party license notices in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
 
 ## Licencia / License
 
