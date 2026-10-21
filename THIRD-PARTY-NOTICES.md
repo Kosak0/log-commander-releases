@@ -1,9 +1,9 @@
 # Third-party notices / Avisos de terceros
 
-Log Commander includes code derived from **StarLogs** (https://github.com/Ozy311/StarLogs),
+Some Log Commander features were inspired by code derived from **StarLogs**,
 used under the MIT License. Its copyright and permission notice follow, as that license requires.
 
-Log Commander incluye codigo derivado de **StarLogs** (https://github.com/Ozy311/StarLogs),
+Algunas funciones de Log Commander se inspiraron a partir del código derivado de **StarLogs**,
 usado bajo la licencia MIT. Su aviso de copyright y de permiso se reproduce a continuacion,
 como exige esa licencia.
 
@@ -32,4 +32,6 @@ SOFTWARE.
 ```
 
 Component and contract data are derived from the community language pack
-https://github.com/ExoAE/ScCompLangPack. Game text is (c) Cloud Imperium Games.
+https://github.com/ExoAE/ScCompLangPack.
+
+Game text is (c) Cloud Imperium Games.
