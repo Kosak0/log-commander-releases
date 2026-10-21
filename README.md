@@ -18,7 +18,7 @@ Log Commander lee tu `Game.log` mientras juegas y lo convierte en un panel web c
 2. **Guárdalo en su propia carpeta**, por ejemplo `C:\Tools\LogCommander\`. Debe ser una carpeta donde puedas escribir: el programa guarda ahí su configuración (`logcommander_config.json`) y se actualiza a sí mismo en esa misma ruta.
 3. **Ábrelo con doble clic.** Windows SmartScreen puede avisar de que el programa no es conocido, porque el exe no está firmado: pulsa *Más información → Ejecutar de todas formas*. Se abre una ventana de consola; **déjala abierta mientras lo uses**.
 4. **Elige la instalación del juego.** Busca Star Citizen en todos tus discos (LIVE, PTU, EPTU). Si hay varias, la consola te deja elegir. Si no encuentra ninguna, te pide la ruta. Para que funcione, el juego debe haberse lanzado al menos una vez (así existe el `Game.log`).
-5. **Abre el panel en el navegador:** <http://localhost:3111>. La consola muestra la dirección, pero no abre el navegador sola. El puerto se puede cambiar en *Settings → General → Web Server Port* (hay que reiniciar).
+5. **Abre el panel en el navegador:** <http://localhost:3111>. La consola muestra la dirección, pero no abre el navegador sola: **mantén `Ctrl` y haz clic en la dirección** que aparece en la consola y se abrirá en tu navegador predeterminado (en Windows Terminal; si tu consola no lo permite, copia la dirección y pégala en el navegador). El puerto se puede cambiar en *Settings → General → Web Server Port* (hay que reiniciar).
 6. **Juega.** El panel sigue el log en vivo. Si abres el programa con el juego ya en marcha, repite todo el log de la sesión y se pone al día, así que puedes abrirlo en cualquier momento.
 7. **Para cerrarlo,** pulsa `Ctrl+C` en la consola o cierra su ventana.
 
@@ -124,7 +124,7 @@ Log Commander follows your `Game.log` while you play and turns it into a cockpit
 2. **Put it in its own folder**, for example `C:\Tools\LogCommander\`. It must be somewhere you can write to: the program keeps its settings (`logcommander_config.json`) there and updates itself in place.
 3. **Double-click it.** Windows SmartScreen may warn that the app is unknown, because the exe is not code-signed: click *More info → Run anyway*. A console window opens; **keep it open while you use the app**.
 4. **Pick your game install.** It searches every drive for Star Citizen (LIVE, PTU, EPTU). If you have several, the console lets you choose. If none is found, it asks for the path. The game must have been launched at least once, so that `Game.log` exists.
-5. **Open the dashboard in your browser:** <http://localhost:3111>. The console prints the address but does not open the browser by itself. You can change the port in *Settings → General → Web Server Port* (needs a restart).
+5. **Open the dashboard in your browser:** <http://localhost:3111>. The console prints the address but does not open the browser by itself: **hold `Ctrl` and click the address** shown in the console and it opens in your default browser (in Windows Terminal; if your console does not allow it, copy the address and paste it into the browser). You can change the port in *Settings → General → Web Server Port* (needs a restart).
 6. **Play.** The dashboard follows the log live. If you start the program while the game is already running, it replays the whole session log and catches up, so you can open it at any time.
 7. **To quit,** press `Ctrl+C` in the console or close its window.
 
